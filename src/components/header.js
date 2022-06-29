@@ -1,5 +1,6 @@
 function Header(props) {
-    return <h1>Header</h1>;
-  }
-  
+    <header>
+    <h1>My Portfolio Page</h1>
+    </header>
+}
   export default Header;
