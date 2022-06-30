@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import React from "react";
 
 function Projects(props) {
   // create state to hold projects
