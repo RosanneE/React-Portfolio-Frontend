@@ -1,5 +1,5 @@
 import "./App.css";
-
+import React from "react";
 // IMPORT COMPONENTS
 import { Route, Routes } from "react-router-dom";
 // IMPORT PAGES
