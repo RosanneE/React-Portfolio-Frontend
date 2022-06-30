@@ -1,3 +1,6 @@
+import { useEffect } from "react";
+import React from "react";
+
 function Home(props) {
       // create state to hold about data
   const [about, setAbout] = useState(null);
