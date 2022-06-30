@@ -19,13 +19,14 @@ function Home(props) {
 //   useEffect(() => getAboutData(), []);
 
   // define a function that will return the JSX needed once we get the data
-
+return(
     <div>
   <div className="introText">
     <h1>Rosanne Anderson:</h1>
     <h2>Software Engineer - Web Developer - Problem Solver</h2>
   </div>
     </div>
+)
 
 
   // if data arrives return the result of loaded, if not, an h1 that says loading
