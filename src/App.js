@@ -19,9 +19,6 @@ function App() {
         <Route path="/projects">
           <Projects URL={URL} />
         </Route>
-        <Route path="/about">
-          <About URL={URL} />
-        </Route>
       </Routes>
     </div>
   );
